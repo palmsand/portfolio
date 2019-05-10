@@ -1,9 +1,3 @@
 {
-  "version": 2,
-  "builds": [
-    { 
-      "src": "index-01.html", 
-      "use": "@now/static" 
-    }
-  ]
+  "version": 2
 }
